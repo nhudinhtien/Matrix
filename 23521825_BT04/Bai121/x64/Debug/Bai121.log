@@ -1,0 +1,5 @@
+﻿E:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai121.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai119.cpp
+E:\Mảng 2 chiều\Bai121\Bai119.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Mảng 2 chiều\Bai121\Bai119.cpp(32,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai121.vcxproj -> E:\Mảng 2 chiều\x64\Debug\Bai119.exe
